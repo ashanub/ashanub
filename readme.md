@@ -2,7 +2,7 @@
 ## I'm an all round tech / coding enthusiast
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)][github]
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)][instagram]
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][email]
