@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi there, Ashan Here! ✌️😄
+<h1 align="center">Hi there, Ashan Here! ✌️😄</h1>
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./graphics/26532-idea-man.gif" />
