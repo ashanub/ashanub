@@ -1,5 +1,5 @@
 # Hi there, Ashan Here! ✌️😄
-## I'm a Web Developer | Designer & I'm currently waiting to start my post-grad course in Mobile Solutions Development at Conestoga College, Waterloo, Ontario
+## I'm a Web Developer | Designer & an all round coding enthusiast.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)][github]
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white)][linkedin]
