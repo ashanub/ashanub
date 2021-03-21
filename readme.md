@@ -1,35 +1,26 @@
 <!-- Your title -->
 <h1 align="center">Hi there, Ashan Here! ✌️😄</h1>
 <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/ashanub/">
-    <img src="https://img.shields.io/badge/linkedin-blue">
+   <a href="">
+    <img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white">
   </a>
   
-  <a href="https://www.instagram.com/l____o_0____l/">
-    <img src="https://img.shields.io/badge/instagram-red">
+  <a href="">
+    <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white">
   </a>
   
   <a href="https://www.twitter.com/ashanub/">
-    <img src="https://img.shields.io/badge/twitter-blue">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white">
   </a>
   
   <a href="mailto:ashanudayanga@gmail.com">
-    <img src="https://img.shields.io/badge/gmai-red">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
 </p>
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./graphics/26532-idea-man.gif" />
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)][github]
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white)][linkedin]
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][email]
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][instagram]
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)][twitter] 
-&nbsp;
 
 <!-- Talking about you -->
 **I'm currently improving on:**
