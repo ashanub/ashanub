@@ -21,7 +21,7 @@
 <h3 align="center">Web Developer / Designer & Prospective Mobile Developer</h3>
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="./graphics/26532-idea-man.gif" />
+<img width="55%" align="right" alt="Github" src="./graphics/23449-good-idea.gif" />
 
 
 <!-- Talking about you -->
