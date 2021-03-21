@@ -1,6 +1,6 @@
 ## Hey there! Ashan Here! ✌️😄
 
-![screencast](https://i.imgur.com/miLzIkJ.gif)
+(https://i.imgur.com/miLzIkJ.gif)
 
 ## I'm an all round tech and coding enthusiast!
 - :canada: I'm currently waiting to start my post-grad course on Mobile Solutions Development in Canada ⌛
