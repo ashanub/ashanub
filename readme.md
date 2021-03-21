@@ -1,6 +1,9 @@
 <!-- Your title -->
 ## Hi there, Ashan Here! ✌️😄
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="./graphics/26532-idea-man.gif" />
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -15,9 +18,6 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **I'm currently improving on:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="./graphics/26532-idea-man.gif" />
 
 - 📖 ✏️ I'm waiting to start my grad-certificate studies in Mobile Solutions Development at Conestoga College, Waterloo, Ontario 🇨🇦;
 - 💻Learning to build a CRM system using Node.js, Vue.js, MongoDB & GraphQL
