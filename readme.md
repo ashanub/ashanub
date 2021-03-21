@@ -7,9 +7,9 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)][github]
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][instagram]
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][email]
-[![Outlook](https://img.shields.io/badge/-Instagram-blue?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][twitter]
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][instagram]
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][twitter]
 
 &nbsp;
 
