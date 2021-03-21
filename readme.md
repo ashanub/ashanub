@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **I'm currently improving on:**
 
-- 📖 ✏️ I'm waiting to start my grad-certificate studies in Mobile Solutions Development at Conestoga College, Waterloo, Ontario 🇨🇦;
+- 📖 ✏️ Starting my grad-certificate studies in Mobile Solutions Development at Conestoga College, Waterloo, Ontario 🇨🇦 in May;
 - 💻Learning to build a CRM system using Node.js, Vue.js, MongoDB & GraphQL
 - 
 **Languages and Tools:** 
