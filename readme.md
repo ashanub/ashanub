@@ -7,9 +7,9 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)][github]
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white)][linkedin]
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)][twitter]
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)][instagram]
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][instagram]
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][email]
+[![Outlook](https://img.shields.io/badge/-Instagram-blue?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][twitter]
 
 &nbsp;
 
@@ -98,3 +98,9 @@ I created these images, feel free to use them.
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
 ⭐️ From [onimur](https://github.com/onimur)
+
+[github]: https://github.com/ashanub
+[twitter]: https://twitter.com/ashanub
+[instagram]: https://instagram.com/l____o_0____l/
+[linkedin]: https://linkedin.com/in/ashanub
+[email]: mailto:ashanudayanga@gmail.com
