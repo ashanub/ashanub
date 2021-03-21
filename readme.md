@@ -1,11 +1,11 @@
 <!-- Your title -->
 <h1 align="center">Hi there, Ashan Here! ✌️😄</h1>
 <p align="center"><br/>
-   <a href="">
+   <a href="https://linkedin.com/in/ashanub">
     <img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white">
   </a>
   
-  <a href="">
+  <a href="https://instagram.com/l____o_0____l/">
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white">
   </a>
   
