@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **I'm currently improving on:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/ashanub/ashanub/master/graphics/26532-idea-man.gif?token=AD7BVYXTWQ6QMSOHOVLQHZTAK4X5Q" />
+<img width="55%" align="right" alt="Github" src="./graphics/26532-idea-man.gif" />
 
 - 👨🏽‍💻 I'm waiting to start my post-grad course in Mobile Solutions Development at Conestoga College, Waterloo, Ontario;
 - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
