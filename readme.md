@@ -1,10 +1,11 @@
 # Hi there, Ashan Here! ✌️😄
 ## I'm an all round tech / coding enthusiast
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ashanub)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashanub/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)][github]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)][twitter]
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashanudayanga@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white)][instagram]
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][email]
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
@@ -37,9 +38,11 @@
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
 
+[github]: https://github.com/ashanub
 [twitter]: https://twitter.com/ashanub
 [instagram]: https://instagram.com/l____o_0____l/
 [linkedin]: https://linkedin.com/in/ashanub
+[email]: mailto:ashanudayanga@gmail.com
 
 
  
