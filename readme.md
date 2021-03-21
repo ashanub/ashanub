@@ -1,12 +1,20 @@
 <!-- Your title -->
 <h1 align="center">Hi there, Ashan Here! ✌️😄</h1>
 <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+   <a href="https://www.linkedin.com/in/ashanub/">
+    <img src="https://img.shields.io/badge/linkedin-blue">
   </a>
   
-  <a href="https://www.instagram.com/sachuverma_/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  <a href="https://www.instagram.com/l____o_0____l/">
+    <img src="https://img.shields.io/badge/instagram-red">
+  </a>
+  
+  <a href="https://www.twitter.com/ashanub/">
+    <img src="https://img.shields.io/badge/twitter-blue">
+  </a>
+  
+  <a href="mailto:ashanudayanga@gmail.com">
+    <img src="https://img.shields.io/badge/gmai-red">
   </a>
 </p>
 
