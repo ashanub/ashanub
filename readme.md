@@ -19,14 +19,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./graphics/26532-idea-man.gif" />
 
-- 👨🏽‍💻 I'm waiting to start my post-grad course in Mobile Solutions Development at Conestoga College, Waterloo, Ontario;
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
-
+- 📖 ✏️ I'm waiting to start my grad-certificate studies in Mobile Solutions Development at Conestoga College, Waterloo, Ontario 🇨🇦;
+- 💻Learning to build a CRM system using Node.js, Vue.js, MongoDB & GraphQL
+- 
 **Languages and Tools:** 
 
 <!-- Your github readme stats
