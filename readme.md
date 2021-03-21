@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white)][linkedin]
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)][email]
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][instagram]
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=c13584&logo=instagram&logoColor=white)][twitter]
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)][twitter]
 
 &nbsp;
 
