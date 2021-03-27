@@ -32,11 +32,8 @@
 -  Learning to build a CRM system using Node.js, Vue.js, MongoDB & GraphQL 💻
 -  Want to start writing blog articles on things that interest me. 🖋️
 **Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-[![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashanub&hide=stars&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+[![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashanub&hide=stars&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p>
 
