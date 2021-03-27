@@ -45,10 +45,10 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img height="20" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code> 
   <br />
 </p>
 
