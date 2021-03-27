@@ -49,6 +49,8 @@
    <code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
    <code><img height="20" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
    <code><img height="20" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code> 
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code> 
+   <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/bulma.svg"></code> 
   <br />
 </p>
 
