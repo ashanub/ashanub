@@ -33,12 +33,10 @@
 -  Want to start writing blog articles on things that interest me. 🖋️
 **Languages and Tools:** 
 
-<p width="55%"></p>
-
 
 [![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashanub&hide=stars&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
+<p width="55%">
 
   
   <!-- Your languages and tools. Be careful with the alignment. 
