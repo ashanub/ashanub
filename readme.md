@@ -53,6 +53,10 @@
    <code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/bulma.svg"></code> 
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
    <code><img height="20" src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg"></code> 
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code> 
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code> 
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code> 
+   <code><img height="20" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code> 
   <br />
 </p>
 
