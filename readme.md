@@ -36,7 +36,7 @@
 
 [![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashanub&hide=stars&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<p width="55%">
+<p width="55%" align="right">
 
   
   <!-- Your languages and tools. Be careful with the alignment. 
