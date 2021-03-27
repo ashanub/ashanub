@@ -56,7 +56,7 @@
 </p>
 
 
-<a href='https://www.freepik.com/vectors/man'>Man vector created by upklyak</a>
+<a href='https://www.freepik.com/vectors/man' style="font-size: 8px">Man vector created by upklyak</a>
 
 
 [github]: https://github.com/ashanub
