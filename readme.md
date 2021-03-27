@@ -65,8 +65,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <a href='https://www.freepik.com/vectors/man'>Man vector created by upklyak</a>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/onimur)
 
 [github]: https://github.com/ashanub
 [twitter]: https://twitter.com/ashanub
