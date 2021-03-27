@@ -19,6 +19,7 @@
 </p>
 
 <h3 align="center">Web Developer / Designer & Prospective Mobile Developer</h3>
+<br>
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./graphics/bg-graphic.png" />
