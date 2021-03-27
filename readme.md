@@ -27,9 +27,9 @@
 <!-- Talking about you -->
 **I'm currently improving on:**
 
-- 📖 ✏️ Starting my grad-certificate studies in Mobile Solutions Development at Conestoga College, Waterloo, Ontario 🇨🇦 in May;
+- 	🎓 Starting my grad-certificate studies in Mobile Solutions Development at Conestoga College, Waterloo, Ontario 🇨🇦 in May;
 - 💻Learning to build a CRM system using Node.js, Vue.js, MongoDB & GraphQL
-- 
+- 🖋️ Want to start writing blog articles on things that interest me.
 **Languages and Tools:** 
 
 <!-- Your github readme stats
