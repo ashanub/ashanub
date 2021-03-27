@@ -71,7 +71,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 </p>
 
-<a href='https://www.freepik.com/vectors/man'>Man vector created by upklyak - www.freepik.com</a>
+<a href='https://www.freepik.com/vectors/man'>Man vector created by upklyak</a>
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
 ⭐️ From [onimur](https://github.com/onimur)
