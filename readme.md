@@ -18,7 +18,7 @@
   </a>
   
   <a href="mailto:ashanudayanga@gmail.com">
-    <img src="https://img.shields.io/badge/-Codepen-c14438?style=flat&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Codepen-c14438?style=flat&logo=Codepen&logoColor=white">
   </a>
 </p>
 
