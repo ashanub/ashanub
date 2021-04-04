@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
   
-  <a href="mailto:ashanudayanga@gmail.com">
-    <img src="https://img.shields.io/badge/-Codepen-c14438?style=flat&logo=Codepen&logoColor=white">
+  <a href="https://codepen.io/ashanub">
+    <img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white">
   </a>
 </p>
 
