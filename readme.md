@@ -18,7 +18,7 @@
   </a>
   
   <a href="https://codepen.io/ashanub">
-    <img src="https://img.shields.io/badge/-Codepen-black?style=flat&logo=Codepen&logoColor=white">
+    <img src="https://img.shields.io/badge/-Codepen-C181818?style=flat&logo=Codepen&logoColor=white">
   </a>
 </p>
 
