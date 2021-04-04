@@ -16,6 +16,10 @@
   <a href="mailto:ashanudayanga@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
+  
+  <a href="mailto:ashanudayanga@gmail.com">
+    <img src="https://img.shields.io/badge/-Codepen-c14438?style=flat&logo=Gmail&logoColor=white">
+  </a>
 </p>
 
 <h3 align="center">Web Developer / Designer & Prospective Mobile Developer</h3>
